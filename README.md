@@ -1,4 +1,4 @@
-# adaptive-mesh-refinement
+# Adaptive-Mesh-Refinement
 
 This directory contains all the code required to perform adaptive mesh refinement using the AMReX software on the simulations of Euler equations. 
 
