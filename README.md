@@ -1,6 +1,6 @@
 # Adaptive-Mesh-Refinement
 
-This directory contains all the code required to perform adaptive mesh refinement using the AMReX software on the simulations of Euler equations. Final report `AMREX_report` submitted has also been added.
+This directory contains all the code required to perform adaptive mesh refinement using the AMReX software on the simulations of Euler equations. Final report `AMREX_report.pdf` submitted has also been added.
 
 AMReX - https://amrex-codes.github.io/amrex/
 
