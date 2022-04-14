@@ -1,6 +1,6 @@
 # Adaptive-Mesh-Refinement
 
-This directory contains all the code required to perform adaptive mesh refinement using the AMReX software on the simulations of Euler equations. 
+This directory contains all the code required to perform adaptive mesh refinement using the AMReX software on the simulations of Euler equations. Final report `AMREX_report` submitted has also been added.
 
 AMReX - https://amrex-codes.github.io/amrex/
 
@@ -13,3 +13,4 @@ AMReX - https://amrex-codes.github.io/amrex/
 * **hllc.cpp** - This file contains the functions for SLIC numerical solver.  
 * **hllc.H** - This file contains the function headers for `hllc.cpp`.
 * **Tagging_nd.f90** - This file contains the FORTRAN code for tagging cells for refinement based on gradient calculation.
+~`
